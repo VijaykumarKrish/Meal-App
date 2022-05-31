@@ -1,0 +1,47 @@
+body{
+    background-color: #8acf27;
+}
+#heading{
+    font-size:25px;
+    color: #795548;
+    margin: 1rem 0 0 3rem;
+}
+
+#allFavourites{
+    float: right;
+    margin-right: 5rem;
+    background-color: #ffeb3b;
+    padding: 2px;
+    color: #fb22ff;
+    border-radius: 5px;
+    margin-top: -20px;
+    font-size: medium;
+    cursor: pointer;
+}
+#submit{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
+#image{
+    height:100px;
+    width:100px;
+    background-repeat:no-repeat;
+    border-radius: 50%;
+   
+}
+/* #search-box{
+    margin: 2rem 0 0 22rem;
+} */
+.showMeals{
+    text-decoration: none;
+    color: #ffeb3b;
+    background-color: #2189f3;
+    padding: 2px;
+}
+/* .mealClass{
+    display:block;
+} */
+/* #fav{
+    display:none;
+} */
